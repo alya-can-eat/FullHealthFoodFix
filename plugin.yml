@@ -1,0 +1,5 @@
+name: FullHealthFoodFix
+main: ch.alya.foodfix.FoodFix
+version: 1.0.0
+author: Alya
+description: Prevents food from being eaten when the player is already at full health (20 HP).
